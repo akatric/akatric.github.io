@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akatric.github.io/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/app/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/assets/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/css/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/data/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/includes/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/item/sitemap.akatric.gz
+Sitemap: https://akatric.github.io/src/sitemap.akatric.gz
